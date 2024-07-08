@@ -6,7 +6,7 @@ Developing a Natural Language Processing (NLP) model to classify SMS messages as
 2. User-Friendly Interface: Powered by Streamlit, the web application provides an intuitive and interactive user experience.
 3. Cloud Deployment: Hosted on the Streamlit platform, ensuring easy accessibility and availability for users.
 
-## Preview of Project:
+## Preview of WebApp:
 ![Capture](https://github.com/kumarlove18/SMS_Spam_Shield/assets/174853186/491688b8-9674-4546-919d-578206fe3f0d)
 
 
