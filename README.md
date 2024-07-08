@@ -12,9 +12,6 @@ Developing a Natural Language Processing (NLP) model to classify SMS messages as
 
 
 
-<h3>Preview of WebApp:</h3>
-
-
 
 
 
